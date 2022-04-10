@@ -2,10 +2,10 @@
 # Hackstack--Team-Ignite
 
 ## Team Members
-Sushant Kumar
-Charmi Mehta
-Shivangi Sangwan
-Ekta
+- Sushant Kumar
+- Charmi Mehta
+- Shivangi Sangwan
+- Ekta
 
 
 ## Brief Description
