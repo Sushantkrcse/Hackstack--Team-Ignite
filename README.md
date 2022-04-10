@@ -38,6 +38,6 @@ Community based live Interview Platform that connects potential interviewees wit
 - IPFS
 
 ## Instructions for Local Setup 
-Make sure to have Node Version 16.0 or more
-Simply run npm install in both client and server folders
-Run npm start in both client and server folders
+- Make sure to have Node Version 16.0 or more
+- Simply run npm install in both client and server folders
+- Run npm start in both client and server folders
