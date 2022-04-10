@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.QuestionPack-Background {
+  background-image: url('https://i.imgur.com/lJtVaJl.jpeg') ;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  color: #fff;
+}
+.Question-Background {
+  background-color: #082032;
+  opacity: 0.9;
+  background-repeat:round;
+  overflow: hidden;
+  color: #fff;
+}
+
+.Question-Background2 {
+  background-color: #528ab4;
+  opacity: 0.9;
+  background-repeat:round;
+  overflow: hidden;
+}
+
+.stream-list-box {
+  background-image: url('https://i.imgur.com/aG4ccet.jpeg') ;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+
+  color: #fff;
+}
+
+.interviewscore-container{
+  background-color: #120E10
+}
+
+.dashboard-headings {
+  font-size: 24px;
+  font-weight: bold;
+  background: #FF0000;
+  background: -webkit-linear-gradient(to left, #FF0000 12%, #000000 100%);
+  background: -moz-linear-gradient(to left, #FF0000 12%, #000000 100%);
+  background: linear-gradient(to left, #FF0000 12%, #000000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
